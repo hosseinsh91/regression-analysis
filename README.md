@@ -4,7 +4,11 @@ A comprehensive machine learning project demonstrating Linear Regression and Pol
 
 📌 Features
 
-✅ Implementation of Linear Regression and Polynomial Regression models✅ Data preprocessing, feature scaling, and transformation✅ Model evaluation using Mean Squared Error (MSE) and R² Score✅ Visualizations with Matplotlib & Seaborn for model insights✅ End-to-end workflow for predictive analytics
+✅ Implementation of Linear Regression and Polynomial Regression models
+✅ Data preprocessing, feature scaling, and transformation
+✅ Model evaluation using Mean Squared Error (MSE) and R² Score
+✅ Visualizations with Matplotlib & Seaborn for model insights
+✅ End-to-end workflow for predictive analytics
 
 📌 Dataset
 
